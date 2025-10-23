@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 1722 2585"
+ width="1722" height="2585"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+@media (prefers-color-scheme: dark) {
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="1722" height="2585" preserveAspectRatio="none" xlink:href="images/003.avif"/>
+<text x="360.5" y="575.5" xml:space="preserve"> </text>
+<text x="360.5" y="576.5">
+  <tspan x="360.5" y="604.75" font-size="54.5px" textLength="158.0" lengthAdjust="spacingAndGlyphs">John</tspan>
+  <tspan x="552.5" y="604.75" font-size="54.5px" textLength="134.0" lengthAdjust="spacingAndGlyphs">Holt</tspan>
+  <tspan x="712.0" y="604.25" font-size="55.5px" textLength="49.5" lengthAdjust="spacingAndGlyphs">&amp;</tspan>
+  <tspan x="792.0" y="604.75" font-size="54.5px" textLength="233.5" lengthAdjust="spacingAndGlyphs">Patrick</tspan>
+  <tspan x="1055.5" y="612.0" font-size="68.0px" textLength="271.0" lengthAdjust="spacingAndGlyphs">Farenga</tspan>
+  <tspan x="292.5" y="828.5" font-size="118.0px" textLength="462.5" lengthAdjust="spacingAndGlyphs">Bildung</tspan>
+  <tspan x="801.5" y="816.25" font-size="93.5px" textLength="96.0" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="954.0" y="817.0" font-size="95.0px" textLength="453.5" lengthAdjust="spacingAndGlyphs">Freiheit</tspan>
+  <tspan x="512.0" y="1060.0" font-size="54.0px" textLength="127.5" lengthAdjust="spacingAndGlyphs">Das</tspan>
+  <tspan x="662.5" y="1060.0" font-size="54.0px" textLength="520.5" lengthAdjust="spacingAndGlyphs">John-Holt-Buch</tspan>
+  <tspan x="366.5" y="1162.0" font-size="41.0px" textLength="139.5" lengthAdjust="spacingAndGlyphs">zum</tspan>
+  <tspan x="536.5" y="1161.5" font-size="70.0px" textLength="525.0" lengthAdjust="spacingAndGlyphs">eigenständigen</tspan>
+  <tspan x="1095.5" y="1155.5" font-size="54.0px" textLength="229.0" lengthAdjust="spacingAndGlyphs">Lernen</tspan>
+  <tspan x="503.0" y="1354.5" font-size="38.0px" textLength="193.5" lengthAdjust="spacingAndGlyphs">Deutsch</tspan>
+  <tspan x="717.0" y="1359.0" font-size="29.0px" textLength="81.5" lengthAdjust="spacingAndGlyphs">von</tspan>
+  <tspan x="822.5" y="1359.0" font-size="48.0px" textLength="189.0" lengthAdjust="spacingAndGlyphs">Dagmar</tspan>
+  <tspan x="1031.0" y="1354.5" font-size="38.0px" textLength="165.5" lengthAdjust="spacingAndGlyphs">Mallett</tspan>
+  <tspan x="621.5" y="2100.75" font-size="65.5px" textLength="217.5" lengthAdjust="spacingAndGlyphs">Genius</tspan>
+  <tspan x="861.5" y="2114.0" font-size="56.0px" textLength="210.0" lengthAdjust="spacingAndGlyphs">Verlag</tspan>
+</text>
+</svg>

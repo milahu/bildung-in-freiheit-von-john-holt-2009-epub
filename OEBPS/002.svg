@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 1722 2566"
+ width="1722" height="2566"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+@media (prefers-color-scheme: dark) {
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="1722" height="2566" preserveAspectRatio="none" xlink:href="images/002.avif"/>
+</svg>

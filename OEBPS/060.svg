@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 1721 2562"
+ width="1721" height="2562"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+@media (prefers-color-scheme: dark) {
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="1721" height="2562" preserveAspectRatio="none" xlink:href="images/060.avif"/>
+<text x="867.5" y="1443.5" xml:space="preserve"> </text>
+<text x="867.5" y="1444.5">
+  <tspan x="867.5" y="1447.0" font-size="5.0px" textLength="2.5" lengthAdjust="spacingAndGlyphs">’</tspan>
+  <tspan x="587.0" y="2055.25" font-size="5.5px" textLength="1.5" lengthAdjust="spacingAndGlyphs">1</tspan>
+</text>
+</svg>

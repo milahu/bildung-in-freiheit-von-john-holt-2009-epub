@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.1" viewBox="0 0 1732 2590"
+ width="1732" height="2590"
+ style="margin:auto"
+>
+<style>
+text, tspan { dominant-baseline: mathematical; fill: transparent; }
+@media (prefers-color-scheme: dark) {
+ image { filter: invert(); }
+}
+</style>
+<image x="0" y="0" width="1732" height="2590" preserveAspectRatio="none" xlink:href="images/001.avif"/>
+<text x="615.0" y="591.0" xml:space="preserve"> </text>
+<text x="615.0" y="592.0">
+  <tspan x="615.0" y="608.5" font-size="31.0px" textLength="91.5" lengthAdjust="spacingAndGlyphs">John</tspan>
+  <tspan x="725.5" y="608.25" font-size="31.5px" textLength="77.5" lengthAdjust="spacingAndGlyphs">Holt</tspan>
+  <tspan x="817.5" y="608.0" font-size="32.0px" textLength="28.5" lengthAdjust="spacingAndGlyphs">&amp;</tspan>
+  <tspan x="863.5" y="608.5" font-size="32.0px" textLength="134.5" lengthAdjust="spacingAndGlyphs">Patrick</tspan>
+  <tspan x="1015.0" y="612.25" font-size="39.5px" textLength="156.0" lengthAdjust="spacingAndGlyphs">Farenga</tspan>
+  <tspan x="717.0" y="721.75" font-size="39.5px" textLength="149.5" lengthAdjust="spacingAndGlyphs">Bildung</tspan>
+  <tspan x="881.0" y="717.25" font-size="30.5px" textLength="30.5" lengthAdjust="spacingAndGlyphs">in</tspan>
+  <tspan x="930.5" y="717.75" font-size="31.5px" textLength="146.0" lengthAdjust="spacingAndGlyphs">Freiheit</tspan>
+  <tspan x="417.5" y="827.25" font-size="31.5px" textLength="73.5" lengthAdjust="spacingAndGlyphs">Das</tspan>
+  <tspan x="504.5" y="827.25" font-size="31.5px" textLength="299.5" lengthAdjust="spacingAndGlyphs">John-Holt-Buch</tspan>
+  <tspan x="821.5" y="831.0" font-size="24.0px" textLength="80.0" lengthAdjust="spacingAndGlyphs">zum</tspan>
+  <tspan x="919.0" y="831.0" font-size="40.0px" textLength="302.5" lengthAdjust="spacingAndGlyphs">eigenständigen</tspan>
+  <tspan x="1241.0" y="827.25" font-size="31.5px" textLength="132.0" lengthAdjust="spacingAndGlyphs">Lernen</tspan>
+</text>
+</svg>
